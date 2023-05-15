@@ -1,0 +1,1 @@
+# Dynamic-Frontend-Next-Page-Template
